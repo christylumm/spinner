@@ -33,3 +33,5 @@ setTimeout(() => {
 setTimeout(() => {
   process.stdout.write('\r|   ');
 }, 1700);
+
+//double check git push
